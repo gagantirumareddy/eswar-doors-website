@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# eswar-doors-website
+Premium business website for ESWAR DOORS &amp; ALUMINIUM featuring PVC doors, aluminium works, product showcase, customer reviews, Google Maps, WhatsApp/Phone/Email integration, responsive UI, smooth animations, dark premium design, and modern frontend development using React, Vite, Tailwind CSS, and Framer Motion.
+>>>>>>> 5e3382d0128b62ea16819da658c53aa5c42cb492
